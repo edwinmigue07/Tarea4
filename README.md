@@ -15,7 +15,7 @@ El sistema no utiliza bases de datos; toda la información se maneja en memoria 
 
 ## Integrantes del Grupo
 *   Edwin Miguel Cordero Mendoza
-*   María Fernanda Paternina Ortiz
+*   [Nombre del integrante 2]
 *   [Nombre del integrante 3]
 *   [Nombre del integrante 4]
 *   [Nombre del integrante 5]
